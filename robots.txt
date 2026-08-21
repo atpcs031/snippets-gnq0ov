@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://atpcs031.github.io/snippets-gnq0ov/sitemap.xml
